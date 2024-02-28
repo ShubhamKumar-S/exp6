@@ -1,0 +1,12 @@
+An example forking workflow
+In this workshop you will work from a central repo owned by Earth Lab. You will:
+
+1.     Fork this repo owned by Earth Lab into your GitHub account.
+
+2.     Clone the fork of your repo, so you can edit the contents locally
+
+3.     Make edits to your local cloned copy of the repo on your computer
+
+4.     add, commit and push those edits back to your fork on GitHub
+
+5.     Suggest the changes that you made, to be added to the Earth Lab central repo using a pull request
